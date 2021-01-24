@@ -1,0 +1,7 @@
+C:\Users\tmcar\source\repos\OpenAndClosePrinciple\OpenAndClosePrinciple\bin\Debug\OpenAndClosePrinciple.exe.config
+C:\Users\tmcar\source\repos\OpenAndClosePrinciple\OpenAndClosePrinciple\bin\Debug\OpenAndClosePrinciple.exe
+C:\Users\tmcar\source\repos\OpenAndClosePrinciple\OpenAndClosePrinciple\bin\Debug\OpenAndClosePrinciple.pdb
+C:\Users\tmcar\source\repos\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.csprojAssemblyReference.cache
+C:\Users\tmcar\source\repos\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.csproj.CoreCompileInputs.cache
+C:\Users\tmcar\source\repos\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.exe
+C:\Users\tmcar\source\repos\OpenAndClosePrinciple\OpenAndClosePrinciple\obj\Debug\OpenAndClosePrinciple.pdb
